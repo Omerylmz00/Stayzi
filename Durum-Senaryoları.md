@@ -2,5 +2,5 @@ Gereksinim analizi sayfasında olduğu gibi herkes kendi ismiyle aşağıya numa
 
 1. [İclal Karahisar Durum Senaryosu](İclal-Karahisar-DurumSenaryosu.pdf)
 2. [İlayda Çelikkaya Durum Senaryosu](AliAtabakDurumSenaryosu.pdf)
-3. [Ömer Faruk Yılmaz Durum Senaryosu](AliAtabakDurumSenaryosu.pdf)
+3. [Ömer Faruk Yılmaz Durum Senaryosu](Ömer-Faruk-Yılmaz-Durum-Senaryosu.pdf)
 4. [Ahmet Koca Durum Senaryosu](Ahmet-Koca-DurumSenaryosu.pdf)
